@@ -20,3 +20,5 @@ http://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-
 
 Ubuntu:
 http://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
+
+*To quit out of the program, press 'Q'
