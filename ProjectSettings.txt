@@ -1,0 +1,8 @@
+Beagle Bone Settings:
+    1.  Longer than 10 second delay
+    2.  100 - 200 Frames
+    3.  Banner off
+    4.  1920 x 1080 Reformatted
+Program Settings:
+    1.  Modify H and S values in HSV to distinguish brightest pixels
+    2.  After this, reformat the image to filter out all other colors & to print out "Detected" if a Dark Blue (Marker for bright         object) is found
